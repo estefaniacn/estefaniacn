@@ -67,9 +67,7 @@ I created and teach these online courses:
 #### English
 
 - [Python Code Examples – Sample Script Coding Tutorial for Beginners](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
-
 - [What is Python Used For? 10+ Coding Uses for the Python Programming Language.](https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/)
-
 - [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 
 
@@ -78,9 +76,7 @@ I created and teach these online courses:
 #### Spanish
 
 - [¿Para qué se usa Python? 10+ usos del lenguaje de programación Python](https://www.freecodecamp.org/espanol/news/para-que-se-usa-python-10-usos-del-lenguaje-de-programacion-python/)
-
 - [Python ejemplos de código – tutorial de programación en Python desde cero para principiantes](https://www.freecodecamp.org/espanol/news/python-ejemplos-de-codigo-tutorial-de-programacion-en-python-desde-cero-para-principiantes/)
-
 - [Python cómo escribir en un archivo - abrir, leer, escribir y otras funciones de archivos explicadas](https://www.freecodecamp.org/espanol/news/python-como-escribir-en-un-archivo-abrir-leer-escribir-y-otras-funciones-de-archivos-explicadas/)
 
 ▶ [**Más artículos...**](https://www.freecodecamp.org/espanol/news/author/estefaniacn)
