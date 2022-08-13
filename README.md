@@ -9,28 +9,28 @@ I create online courses in English and Spanish to teach programming and computer
 I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
 
 
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/html.svg">
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/css.svg">
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/javascript.svg">
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/python.svg">
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/react.svg">
-<img width="50px" 
-    height="50px" 
+<img width="70px" 
+    height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
 
