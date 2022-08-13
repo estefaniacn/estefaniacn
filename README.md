@@ -36,7 +36,7 @@ I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](
 
 -----
 
-### 🎓 Online Courses
+## 🎓 Online Courses
 
 I created and teach these online courses:
 
@@ -62,7 +62,7 @@ I created and teach these online courses:
 
 
 
-### 📘 My articles 
+## 📘 My articles 
 
 #### English
 
@@ -88,7 +88,7 @@ I created and teach these online courses:
 --------
 
 
-### 🌐 Social Media
+## 🌐 Social Media
 
 You can find me on:
 
