@@ -93,6 +93,7 @@ I created and teach these online courses:
 You can find me on:
 
 - Twitter: [**@EstefaniaCassN**](https://twitter.com/EstefaniaCassN)
+- Udemy: [**My Instructor Profile**](https://www.udemy.com/user/estefania-cn/)
 - YouTube: [**Coding with Estefania**](https://www.youtube.com/codingwithestefania) 
  
 --------
