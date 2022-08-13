@@ -20,7 +20,7 @@ I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/javascript.svg"> &nbsp;
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
