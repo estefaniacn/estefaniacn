@@ -7,7 +7,7 @@
 I create online courses in English and Spanish to teach programming and computer science.
 
 I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
-
+Agreganod texto a la linea 10 
 
 <img width="70px" 
     height="70px" 
