@@ -4,10 +4,9 @@
 
 **Hi, I'm Estefania. I'm a software developer and computer science instructor. I love teaching, learning, and helping others realize how amazing and powerful programming can be.**
 
-I create online courses in English and Spanish to teach programming and computer science.
+I create online courses in English and Spanish to teach programming and computer science .
 
 I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol) YouTube Channel, create courses, and write articles.
-
 
 <img width="70px" 
     height="70px" 
@@ -34,7 +33,7 @@ I'm part of the freeCodeCamp Staff, where I run the [**freeCodeCamp Español**](
     style="margin: 10px"
     src="./assets/node.svg">
 
------
+---
 
 ## 🎓 Online Courses
 
@@ -46,7 +45,7 @@ I created and teach these online courses:
 - [Visual Studio Code for Developers 2022: Beginner to Advanced](https://www.udemy.com/course/learn-visual-studio-code-vscode-course/)
 - [Python Exercises for Beginners: Solve 100+ Coding Challenges](https://www.udemy.com/course/python-exercises-for-beginners-solve-coding-challenges/)
 
-▶ You can find my 12+ online courses on [**Udemy**](https://www.udemy.com/user/estefania-cn/). 
+▶ You can find my 12+ online courses on [**Udemy**](https://www.udemy.com/user/estefania-cn/).
 
 #### Spanish
 
@@ -56,20 +55,17 @@ I created and teach these online courses:
 - [Aprende React Desde Cero - Curso de React Con Proyectos](https://www.youtube.com/watch?v=6Jfk8ic3KVk)
 - [Aprende Node.js y Express - Curso desde Cero](https://www.youtube.com/watch?v=1hpc70_OoAg)
 
-**Note:** these courses are published on [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol). 
+**Note:** these courses are published on [**freeCodeCamp Español**](https://www.youtube.com/freecodecampespanol).
 
---------
+---
 
-
-
-## 📘 My articles 
+## 📘 My articles
 
 #### English
 
 - [Python Code Examples – Sample Script Coding Tutorial for Beginners](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [What is Python Used For? 10+ Coding Uses for the Python Programming Language.](https://www.freecodecamp.org/news/what-is-python-used-for-10-coding-uses-for-the-python-programming-language/)
 - [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
-
 
 ▶ [**More articles...**](https://freecodecamp.org/news/author/estefaniacn)
 
@@ -81,8 +77,7 @@ I created and teach these online courses:
 
 ▶ [**Más artículos...**](https://www.freecodecamp.org/espanol/news/author/estefaniacn)
 
---------
-
+---
 
 ## 🌐 Social Media
 
@@ -90,6 +85,6 @@ You can find me on:
 
 - Twitter: [**@EstefaniaCassN**](https://twitter.com/EstefaniaCassN)
 - Udemy: [**My Instructor Profile**](https://www.udemy.com/user/estefania-cn/)
-- YouTube: [**Coding with Estefania**](https://www.youtube.com/codingwithestefania) 
- 
---------
+- YouTube: [**Coding with Estefania**](https://www.youtube.com/codingwithestefania)
+
+---
